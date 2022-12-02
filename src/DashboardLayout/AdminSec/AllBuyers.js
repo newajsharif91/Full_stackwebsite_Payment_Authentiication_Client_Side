@@ -5,14 +5,13 @@ import toast from 'react-hot-toast';
 const AllBuyers = () => {
 
     const { data: buyers = [], refetch } = useQuery({
-        queryKey: ['buyers'],
-        queryFn: async () => {
-            const res = await fetch('http://localhost:5000/userRole?role=buyer')
-            const data = await res.json()
-            return data;
-        }
-    })
-    // console.log(sellers)
+      queryKey: ["buyers"],
+      queryFn: async () => {
+        const res = await fetch("http://localhost:5000/userRole?role=buyer");
+        const data = await res.json();
+        return data;
+      },
+    });
 
     const handleDeleteUser = (buyer) => {
         console.log(buyer);
