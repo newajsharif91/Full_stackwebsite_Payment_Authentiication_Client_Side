@@ -3,6 +3,8 @@ import { Outlet } from 'react-router-dom';
 import Footer from '../Seared/Footer';
 import Navbar from '../Seared/Navbar';
 
+//Final Layout
+
 const Main = () => {
     return (
         <div>
