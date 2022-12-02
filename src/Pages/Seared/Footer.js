@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+//Footer Section
 const Footer = () => {
     return (
         <div>
