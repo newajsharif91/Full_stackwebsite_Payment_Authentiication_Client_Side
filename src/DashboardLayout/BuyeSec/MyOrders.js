@@ -23,7 +23,7 @@ const MyOrders = () => {
                 const bookings = data.data;
                 setBookingData(bookings)
                 setLoading(false)
-                // console.log(bookings)
+                console.log(bookings);
             })
     })
 
