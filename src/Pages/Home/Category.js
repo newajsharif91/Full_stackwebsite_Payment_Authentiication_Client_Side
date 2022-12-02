@@ -13,7 +13,7 @@ const Category = () => {
             return data;
         }
     })
-    // console.log(bikesCategories);
+    console.log(bikesCategories);
 
 
 
