@@ -1,0 +1,156 @@
+
+[
+    {
+        "name":"Harley-Davidson Sportster S",
+        "category_id": 1,
+        "category":"Cruiser",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "10000",
+        "resalePrice": "5000",
+        "conditionType": "nice",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Tom Cruise",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/6Ht1mZH/Harley-Davidson-Sportster-S-scaled-e1627292489506.jpg"
+
+    },
+    {
+        "name":"Jawa 42 Bobber",
+        "category_id": 1,
+        "category":"Cruiser",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "15000",
+        "resalePrice": "12000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Jhankar Mahmud",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/3cZCwD9/cruiser-motorcycles-blue-free-vector.jpg"
+
+    },
+    {
+        "name":"Benelli Leoncino 800",
+        "category_id": 1,
+        "category":"Cruiser",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "1000",
+        "resalePrice": "7000",
+        "conditionType": "good",
+        "mobileNumber": "155588",
+        "location": "0 State, New York",
+        "sellersName": "Mizan Mia",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/pjDRLbM/jawa-300.jpg"
+
+    },
+    {
+        "name":"Yamaha R15 V4",
+        "category_id": 2,
+        "category":"Sports",
+        "cc":"1250",
+        "yearsOfUse":"1",
+        "originalPrice": "7000",
+        "resalePrice": "4000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Moriom Lisa",
+        "buyYear": "2021",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/7XnqKvv/motorcycles-aprilia-wallpaper-preview.jpg"
+
+    },
+    {
+        "name":"MV Agusta Dragster800 RR",
+        "category_id": 2,
+        "category":"Sports",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "8000",
+        "resalePrice": "4000",
+        "conditionType": "good",
+        "mobileNumber": "7777777",
+        "location": "0 State, New York",
+        "sellersName": "Md Asif",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/tBPqbfL/a8303ac8f097993e2c7e349a12953402.jpg"
+
+    },
+    {
+        "name":"Yamaha YZF-R125 Unveiled Globally",
+        "category_id": 2,
+        "category":"Sports",
+        "cc":"1250",
+        "yearsOfUse":"1",
+        "originalPrice": "6000",
+        "resalePrice": "5000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Najmus Sakib",
+        "buyYear": "2021",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/0FwHBnJ/ducati-streetfighter-hd-black-and-red-sports-bike-wallpaper-preview.jpg"
+
+    },
+    {
+        "name":"Kawasaki KLX 450R Key Specifications",
+        "category_id": 3,
+        "category":"Off-Road",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "4000",
+        "resalePrice": "3000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "Bangladesh",
+        "sellersName": "Sumaiya",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/28y27J6/2021-kawasaki-klx230r-s-review-off-road-motorcycle-trail-bike-17.jpg"
+
+    },
+    {
+        "name":"The KLX300SM",
+        "category_id": 3,
+        "category":"Off-Road",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "4000",
+        "resalePrice": "5000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Mousumi",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/Q9vkYH4/photo-1602563533195-0c7a17c7e7c9.jpg"
+
+    },
+    {
+        "name":"BMW G 310 GS",
+        "category_id": 3,
+        "category":"Off-Road",
+        "cc":"1250",
+        "yearsOfUse":"2",
+        "originalPrice": "13000",
+        "resalePrice": "8000",
+        "conditionType": "good",
+        "mobileNumber": "123456789",
+        "location": "0 State, New York",
+        "sellersName": "Asif Hossen",
+        "buyYear": "2020",
+        "postDate": "2022",
+        "img": "https://i.ibb.co/Fzr7QyD/6519801cv28d.jpg"
+
+    }
+]

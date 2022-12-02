@@ -1,0 +1,23 @@
+        
+
+[
+    {
+        "category_id": 1,
+        "category": "Cruiser",
+        "categoryName": "Cruiser Bike",
+        "img": "https://i.ibb.co/cvWydZf/harley-davidson-motorcycle-vrsc-black-wallpaper.jpg"
+    },
+    {
+        "category_id": 2,
+        "category": "Sports",
+        "categoryName": "Sports Bikes",
+        "img": "https://i.ibb.co/b6PZBsk/3460990.jpg"
+    },
+    {
+        "category_id": 3,
+        "category": "Off-Road",
+        "categoryName": "Off-Road Bikes",
+        "img": "https://i.ibb.co/yR8XZCH/moto-racer-4-gamescom-2016-race-bikes-wallpaper.jpg"
+    }
+]
+
