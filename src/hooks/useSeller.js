@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from "react"
 
-
+//Seller Hooks
 
 const useSeller = email => {
     const [isSeller, setIsSeller] = useState(false);
