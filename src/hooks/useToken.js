@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-
+//Use Token for website admin and seller 
 const useToken = email => {
     const [token, setToken] = useState('')
 
