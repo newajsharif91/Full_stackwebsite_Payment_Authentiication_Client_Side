@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 const CheckOutFrom = ({ booking }) => {
 
     const { resalePrice } = booking;
-    // console.log(resalePrice)
+    console.log(resalePrice);
 
     const [cardError, setCardError] = useState('')
     const stripe = useStripe();
