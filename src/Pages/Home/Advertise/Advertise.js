@@ -13,7 +13,7 @@ const Advertise = () => {
 
 
     // const [bikes, setBikes] = useState(false)
-    // console.log(bikes)
+    console.log(bikeInfo);
 
     const [loading, setLoading] = useState(true)
 
