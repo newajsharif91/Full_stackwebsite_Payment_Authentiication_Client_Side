@@ -1,5 +1,6 @@
 import React from 'react';
 
+//Banner Section
 const Banner = () => {
     return (
         <div className="lg:flex">
