@@ -8,11 +8,14 @@ const ReportedItem = () => {
     const { data: reportedDikesData = [], refetch } = useQuery({
         queryKey: ['bikesInfo'],
         queryFn: async () => {
-            const res = await fetch('http://localhost:5000/bikesReported?report=reported')
-            const data = await res.json()
-            refetch()
-            // setBikes(true)
-            return data;
+          const res = await fetch(
+            "http://localhost:5000/bikesReported?report=reported"
+          );
+          const data = await res.json();
+          refetch();
+          // setBikes(true)
+          //disable (Ture)
+          return data;
         }
     })
     console.log(reportedDikesData)
