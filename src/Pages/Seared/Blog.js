@@ -1,5 +1,5 @@
 import React from 'react';
-
+ //Blog add
 const Blog = () => {
     return (
         <div className='my-16 grid lg:grid-cols-1 gap-10'>
