@@ -17,7 +17,7 @@ const Signup = () => {
     const navigate = useNavigate();
 
     const { register, handleSubmit, formState: { errors } } = useForm();
-    // console.log(errors);
+    console.log(errors);
 
     const from = location.state?.from.pathname || '/'
 
